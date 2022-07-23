@@ -1,6 +1,6 @@
 # IEAvirtualAssistant
 Using instruction:
- If you want to use, double click setup.bat file.
+ If you want to use it, double-click the setup.bat file to load the requirements, select your variations, and open the main.py file of that file.
  
  I did a virtual assistant in 4 variations.
 <b>
