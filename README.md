@@ -4,23 +4,23 @@ Using instruction:
  
  I did a virtual assistant in 4 variations.
 <b>
-1. English with AI-based [To use AI, you need to have the OpenAI API key. But you don't need an API key to use the others.]
+1. English with AI-based (Adriana) [To use AI, you need to have the OpenAI API key. But you don't need an API key to use the others.]
 
  ![1](https://imgyukle.com/f/2022/07/23/VtgYUA.png)
 
  ![2](https://imgyukle.com/f/2022/07/23/VtcxNR.png)
 
-2. English
+2. English (Adriana)
 
 ![english](https://imgyukle.com/f/2022/07/23/VtcH4Y.png)
 
-3. Azerbaijani
+3. Azerbaijani (Israfil
 
 ![azerbaijani1](https://imgyukle.com/f/2022/07/23/VtcuEc.png)
 
 ![azerbaijani2](https://imgyukle.com/f/2022/07/23/VtcaGq.png)
 
-4. Turkish
+4. Turkish (Esra)
 
 ![turkish1](https://imgyukle.com/f/2022/07/23/VtcYIP.png)
 
