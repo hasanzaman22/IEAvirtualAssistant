@@ -1,6 +1,9 @@
 # IEAvirtualAssistant
+Using instruction:
+ If you want to use, double click setup.bat file.
+ 
  I did a virtual assistant in 4 variations.
-
+<b>
 1. English with AI-based [To use AI, you need to have the OpenAI API key. But you don't need an API key to use the others.]
 
  ![1](https://imgyukle.com/f/2022/07/23/VtgYUA.png)
