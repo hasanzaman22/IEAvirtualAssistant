@@ -53,13 +53,7 @@ while a==True:
             except sr.RequestError:
                 speech("System not working.")
 
-            if "Adriana" in speech_text:
-                speech("\tHow can I help you?")
-            else:
-                break
-
-
-        return speech_text
+            return speech_text
 
     first_text = get_audio()
 

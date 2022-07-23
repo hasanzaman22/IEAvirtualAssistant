@@ -1,4 +1,4 @@
-#                              Hasan Zamanli [English] [Adriana]
+﻿#                              Hasan Zamanli [English] [Adriana]
 # Libaries for use my tool
 # pip install SpeechRecognition
 # pip install pyaudio
@@ -76,9 +76,9 @@ while True:
                 speech("\tMy name is Adriana.")
             elif "how are you" in text.lower():
                 speech("\tThanks to god, you?")
-            elif "am good" in text.lower() or "am nice" in text.lower():
+            elif "am good" in text.lower() or "am nice" in text.lower() or "I'm nice" in text.lower() or "I'm good" in text.lower():
                 speech("\tAlways be happy")
-            elif "am bad" in text.lower() or "am sad" in text.lower():
+            elif "am bad" in text.lower() or "am sad" in text.lower() or "I'm bad" in text.lower() or "I'm sad" in text.lower():
                 speech("\tGo and work.")
             elif "who are you" in text.lower():
                 speech("\tI'm Adriana. I'm Hasan's virtual voice assistant.")
@@ -90,7 +90,7 @@ while True:
             elif "what time" in text.lower():
                 speech(datetime.now().strftime("%H:%M"))
             elif "sleep mode" in text.lower() or "off" in text.lower():
-                speech("\tHow many seconds??")
+                speech("\tHow many seconds?")
                 sec = float(get_audio())
                 speech(f"\tOkay, I'm going into {sec} second sleep mode.")
                 sleep = time.sleep(sec)
