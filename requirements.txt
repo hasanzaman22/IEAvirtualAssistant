@@ -1,0 +1,7 @@
+SpeechRecognition
+PyAudio
+pywhatkit
+gtts
+playsound
+openai
+sounddevice
