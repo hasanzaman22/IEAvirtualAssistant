@@ -25,8 +25,9 @@ while True:
         language = "tr"
         output = gTTS(text=text, lang=language, slow=False)
 
-        output.save("../sounds/records.mp3")
+        tts.save("../sounds/records.mp3")
         playsound("../sounds/records.mp3")
+        os.remove("../sounds/records.mp3")
 
 
     recorder = sr.Recognizer()

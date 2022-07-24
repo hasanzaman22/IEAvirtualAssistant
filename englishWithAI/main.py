@@ -23,9 +23,7 @@ from datetime import date, datetime
 openai.api_key = "YOUR_API_KEY"
 
 
-a=True
-
-while a==True:
+while True:
     def speech(text):
         print(text)
         language = "en"
